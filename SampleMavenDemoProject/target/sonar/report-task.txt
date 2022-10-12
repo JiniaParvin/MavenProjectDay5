@@ -1,0 +1,6 @@
+projectKey=com.accenture.maven:SampleMavenDemoProject
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.accenture.maven:SampleMavenDemoProject
+ceTaskId=AYPLx883QIVX3y9_mztX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPLx883QIVX3y9_mztX
